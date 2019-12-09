@@ -1,0 +1,28 @@
+table
+{   margin-top: 1cm;
+    width: 400px; 
+    height: 300px;
+    border: 7px solid rgb(92, 4, 4);
+    background-color:gold;
+    
+}
+
+
+td {
+    tr{
+        colspan:"3" ;background-color:darkolivegreen;
+        
+    };
+    background-color:darkgray;
+}
+td button{
+    background-color:lightseagreen;
+    color: white;
+    border-radius: 8px ;
+    width: 100%;
+    height: 100%;
+}
+
+body{
+    background-image:url("Village Nature in Sunset.jpg");
+}
